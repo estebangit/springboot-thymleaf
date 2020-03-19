@@ -1,0 +1,9 @@
+com/esteban/controllers/MyErrorController.class
+com/esteban/entities/User.class
+com/esteban/security/AuthenticationEntryPointImpl.class
+com/esteban/controllers/UserController.class
+com/esteban/security/WebSecurityConfig.class
+com/esteban/Application.class
+com/esteban/logging/MvcConfig.class
+com/esteban/logging/CallerInterceptor.class
+com/esteban/repositories/UserRepository.class
